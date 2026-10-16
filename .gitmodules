@@ -1,0 +1,3 @@
+[submodule "vendor/tasks-api"]
+	path = vendor/tasks-api
+	url = https://github.com/agl-learn-examples/devops-tasks-api.git
